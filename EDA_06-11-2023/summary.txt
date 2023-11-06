@@ -1,0 +1,110 @@
+ID:
+  tipo: int64
+  valores_unicos: 99088
+  valores_nulos: 0
+  valores_cero: 0
+  valores_negativos: 0
+  outliers: 0
+  min: 1
+  25%: 35189.0
+  50%: 68629.0
+  75%: 102312.5
+  max: 135571
+
+Name:
+  tipo: object
+  valores_unicos: 98546
+  valores_nulos: 0
+
+Sex:
+  tipo: object
+  valores_unicos: 2
+  valores_nulos: 0
+
+Team:
+  tipo: object
+  valores_unicos: 660
+  valores_nulos: 0
+
+NOC:
+  tipo: object
+  valores_unicos: 226
+  valores_nulos: 0
+
+Games:
+  tipo: object
+  valores_unicos: 51
+  valores_nulos: 0
+
+Year:
+  tipo: int64
+  valores_unicos: 35
+  valores_nulos: 0
+  valores_cero: 0
+  valores_negativos: 0
+  outliers: 3020
+  min: 1896
+  25%: 1976.0
+  50%: 1992.0
+  75%: 2006.0
+  max: 2016
+
+Season:
+  tipo: object
+  valores_unicos: 2
+  valores_nulos: 0
+
+City:
+  tipo: object
+  valores_unicos: 42
+  valores_nulos: 0
+
+Sport:
+  tipo: object
+  valores_unicos: 56
+  valores_nulos: 0
+
+Event:
+  tipo: object
+  valores_unicos: 590
+  valores_nulos: 0
+
+age-height-weight_0:
+  tipo: float64
+  valores_unicos: 61
+  valores_nulos: 0
+  valores_cero: 0
+  valores_negativos: 0
+  outliers: 4626
+  min: 11.0
+  25%: 21.0
+  50%: 24.0
+  75%: 28.0
+  max: 71.0
+
+age-height-weight_1:
+  tipo: float64
+  valores_unicos: 94
+  valores_nulos: 0
+  valores_cero: 0
+  valores_negativos: 0
+  outliers: 1310
+  min: 127.0
+  25%: 168.0
+  50%: 175.0
+  75%: 183.0
+  max: 226.0
+
+age-height-weight_2:
+  tipo: float64
+  valores_unicos: 217
+  valores_nulos: 0
+  valores_cero: 0
+  valores_negativos: 0
+  outliers: 3174
+  min: 25.0
+  25%: 60.0
+  50%: 70.0
+  75%: 79.0
+  max: 214.0
+
